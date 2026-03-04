@@ -3,6 +3,9 @@
     "Pineapple" : {
       "@id" : "https://w3id.org/city-kgs/restaurants/Pineapple"
     },
+    "abstract" : {
+      "@id" : "http://purl.org/dc/elements/1.1/abstract"
+    },
     "Address" : {
       "@id" : "https://w3id.org/city-kgs/restaurants/Address"
     },
@@ -49,6 +52,9 @@
     },
     "Feta" : {
       "@id" : "https://w3id.org/city-kgs/restaurants/Feta"
+    },
+    "license" : {
+      "@id" : "http://purl.org/dc/terms/license"
     },
     "MediterraneanRestaurant" : {
       "@id" : "https://w3id.org/city-kgs/restaurants/MediterraneanRestaurant"
@@ -371,6 +377,9 @@
     "SeafoodPizza" : {
       "@id" : "https://w3id.org/city-kgs/restaurants/SeafoodPizza"
     },
+    "title" : {
+      "@id" : "http://purl.org/dc/elements/1.1/title"
+    },
     "serves" : {
       "@id" : "https://w3id.org/city-kgs/restaurants/serves",
       "@type" : "@id"
@@ -533,6 +542,9 @@
     },
     "NamedPizza" : {
       "@id" : "https://w3id.org/city-kgs/restaurants/NamedPizza"
+    },
+    "description" : {
+      "@id" : "http://purl.org/dc/elements/1.1/description"
     },
     "Mushroom" : {
       "@id" : "https://w3id.org/city-kgs/restaurants/Mushroom"
